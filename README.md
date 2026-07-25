@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Deepcodeview/count.svg" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Deepcodeview&color=ff007f&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 ---
@@ -76,12 +76,13 @@ I am a **Java Backend Developer** with **4.4+ years of experience** specializing
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepcodeview&show_icons=true&theme=synthwave&border_radius=10&count_private=true" alt="Deepak's GitHub Stats" height="195" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepcodeview&theme=synthwave&border_radius=10" alt="Deepak's Commit Streak" height="195" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepcodeview&theme=radical" alt="Deepak's Profile Details" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepcodeview&theme=radical&border_radius=10" alt="Deepak's Commit Streak" height="195" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepcodeview&layout=compact&theme=synthwave&border_radius=10" alt="Deepak's Top Languages" height="195" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deepcodeview&theme=radical" alt="Repos per Language" height="195" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Deepcodeview&theme=radical" alt="Most Committed Language" height="195" />
 </p>
 
 ---
